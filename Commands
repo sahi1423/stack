@@ -1,0 +1,70 @@
+angular commands
+=============================================
+folder create 
+
+angular cli install == > npm i @angular/cli
+new angular project == > ng new project_name
+project run 	    == > ng serve / ng serve --open
+
+==================  week9 ==================
+git clone [link]
+cd week9/10
+npm install / npm i 
+ng serve --open / ng serve
+
+
+
+
+
+
+==================  week10 ==================
+
+
+git clone [link]
+cd week9/10
+npm install / npm i 
+ng serve --open / ng serve
+
+
+_____________learn_______________
+
+1. app.component.html
+2. profile.component.ts
+3. profile.component.html
+
+======================week11===================
+
+
+git clone [link]
+cd week11
+npm install / npm i 
+npm start
+
+
+______________learn_____________
+
+add these in index.js
+
+import App from "./App";
+import { BrowserRouter } from "react-router-dom";
+
+<BrowserRouter>
+  <App />
+</BrowserRouter>
+
+App.js
+Home.js
+Profile.js
+About.js
+
+
+
+============================== week12 =================================
+
+
+python -m venv venv
+.\venv\Scripts\activate
+pip install django
+django-admin startproject demoproject
+cd demoproject
+py manage.py runserver
